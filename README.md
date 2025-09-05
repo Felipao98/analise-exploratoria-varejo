@@ -1,6 +1,6 @@
-# 📊 Análise Exploratória para Varejo
+# 📊 Análise Exploratória de Vendas
 
-Este projeto é uma **Análise Exploratória de Dados (EDA)** aplicada a um conjunto de vendas fictício.  
+Este projeto é uma **Análise Exploratória de Dados (EDA)** aplicada a um conjunto de vendas.  
 O objetivo é responder perguntas de negócio relevantes para gestores, utilizando **Python, Pandas, NumPy, Matplotlib e Seaborn**.
 
 ---
@@ -9,8 +9,7 @@ O objetivo é responder perguntas de negócio relevantes para gestores, utilizan
 - Explorar e entender o dataset de vendas.
 - Responder perguntas de negócio reais a partir dos dados.
 - Criar **visualizações atrativas** para comunicar insights.
-- Praticar manipulação e análise de dados com **Pandas**.
-- Exercitar **storytelling com dados**.
+- Exercitar manipulação de dados e **storytelling com dados**.
 
 ---
 
@@ -34,16 +33,6 @@ O objetivo é responder perguntas de negócio relevantes para gestores, utilizan
 - [NumPy](https://numpy.org/)
 - [Matplotlib](https://matplotlib.org/)
 - [Seaborn](https://seaborn.pydata.org/)
-
----
-
-## 📷 Exemplos de Visualizações
-
-- **Vendas por Estado**  
-  ![Vendas por Estado](https://via.placeholder.com/600x300.png?text=Exemplo+Grafico+Barra)
-
-- **Vendas por Segmento (Pizza)**  
-  ![Vendas por Segmento](https://via.placeholder.com/600x300.png?text=Exemplo+Grafico+Pizza)
 
 ---
 

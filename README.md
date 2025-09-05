@@ -57,5 +57,13 @@ O objetivo é responder perguntas de negócio relevantes para gestores, utilizan
    ```bash
    python projeto.py
 
+## 👨‍💻 Autor
+
+Projeto desenvolvido por **Luis Felipe Marques Silva**  
+📌 Estudante de Ciência da Computação - UFSJ  
+📌 Apaixonado por **Data Science e Analytics**  
+
+🔗 [LinkedIn](https://linkedin.com/in/luisfelipemsilva) • [GitHub](https://github.com/Felipao98)
+
 ## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](./LICENSE) para detalhes.

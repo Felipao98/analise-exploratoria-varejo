@@ -1,4 +1,4 @@
-w# 📊 Análise Exploratória de Vendas
+# 📊 Análise Exploratória de Vendas
 
 Este projeto é uma **Análise Exploratória de Dados (EDA)** aplicada a um conjunto de vendas.  
 O objetivo é responder perguntas de negócio relevantes para gestores, utilizando **Python, Pandas, NumPy, Matplotlib e Seaborn**.

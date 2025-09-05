@@ -1,4 +1,4 @@
-# 📊 Data Sales Analysis
+# 📊 Análise Exploratória para Varejo
 
 Este projeto é uma **Análise Exploratória de Dados (EDA)** aplicada a um conjunto de vendas fictício.  
 O objetivo é responder perguntas de negócio relevantes para gestores, utilizando **Python, Pandas, NumPy, Matplotlib e Seaborn**.

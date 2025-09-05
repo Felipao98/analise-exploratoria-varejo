@@ -49,7 +49,7 @@ O objetivo é responder perguntas de negócio relevantes para gestores, utilizan
 ## 💡 Como Executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/analise-exploratoria-vendas.git
+   git clone https://github.com/Felipao98/analise-exploratoria-vendas.git
 2. Instale as dependências:
    ```bash
    pip install -r requirements.txt

@@ -44,6 +44,7 @@ O objetivo é responder perguntas de negócio relevantes para gestores, utilizan
  ┣ 📜 LICENSE
  ┗ 📜 README.md
 
+'''text
 ---
 
 ## 💡 Como Executar

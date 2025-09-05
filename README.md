@@ -50,3 +50,13 @@ O objetivo é responder perguntas de negócio relevantes para gestores, utilizan
 1. Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/analise-exploratoria-vendas.git
+2. Instale as dependências:
+   ```bash
+   pip install -r requirements.txt
+3. Execute o script:
+   ```bash
+   python projeto.py
+
+## Licença
+Este projeto está licenciado sob a licença MIT.
+Consulte o arquivo LICENSE para mais detalhes.

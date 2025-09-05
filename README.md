@@ -36,10 +36,10 @@ O objetivo é responder perguntas de negócio relevantes para gestores, utilizan
 
 ---
 
-## 📂 Estrutura do Projeto
+```text
 📦 analise-exploratoria-vendas
-┣ 📜 projeto.py # Código principal da análise
-┣ 📜 dataset.csv # Dataset utilizado (não incluído no repositório por ser grande/sigilo)
-┣ 📜 requirements.txt
-┣ 📜 LICENSE
-┗ 📜 README.md
+ ┣ 📜 projeto.py     # Código principal da análise
+ ┣ 📜 dataset.csv    # Dataset utilizado (não incluído no repositório por ser grande/sigilo)
+ ┣ 📜 requirements.txt
+ ┣ 📜 LICENSE
+ ┗ 📜 README.md

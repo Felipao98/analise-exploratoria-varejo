@@ -61,7 +61,6 @@ O objetivo é responder perguntas de negócio relevantes para gestores, utilizan
 
 Projeto desenvolvido por **Luis Felipe Marques Silva**  
 📌 Estudante de Ciência da Computação - UFSJ  
-📌 Apaixonado por **Data Science e Analytics**  
 
 🔗 [LinkedIn](https://linkedin.com/in/luisfelipemsilva) • [GitHub](https://github.com/Felipao98)
 

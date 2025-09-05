@@ -43,3 +43,10 @@ O objetivo é responder perguntas de negócio relevantes para gestores, utilizan
  ┣ 📜 requirements.txt
  ┣ 📜 LICENSE
  ┗ 📜 README.md
+
+---
+
+## 💡 Como Executar
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/analise-exploratoria-vendas.git

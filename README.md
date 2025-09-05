@@ -1,4 +1,4 @@
-# 📊 Análise Exploratória de Vendas
+w# 📊 Análise Exploratória de Vendas
 
 Este projeto é uma **Análise Exploratória de Dados (EDA)** aplicada a um conjunto de vendas.  
 O objetivo é responder perguntas de negócio relevantes para gestores, utilizando **Python, Pandas, NumPy, Matplotlib e Seaborn**.
@@ -58,5 +58,4 @@ O objetivo é responder perguntas de negócio relevantes para gestores, utilizan
    python projeto.py
 
 ## Licença
-Este projeto está licenciado sob a licença MIT.
-Consulte o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](./LICENSE) para detalhes.
